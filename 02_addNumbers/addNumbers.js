@@ -5,7 +5,6 @@ function addNumbers() {
   let result;
 
   result = a + b;
-
   return result;
 }
 
